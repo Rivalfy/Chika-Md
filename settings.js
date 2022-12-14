@@ -23,8 +23,8 @@ global.APIKeys = {
 
 //—————「 Setting Owner 」—————//
 global.owner = ['6281214307663','6281214307663','6281214307663'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
-global.premium = ['6281575886399'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
-global.ownernomer = '6281575886399' //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.premium = ['6281214307663'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.ownernomer = '6285871618079' //ubah jadi nomor mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Own & Bot 」—————//
 global.ownername = 'Rival' //ubah jadi nama mu, note tanda ' gausah di hapus!
@@ -35,9 +35,9 @@ global.footer = 'Rival' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
 global.youtube = 'https://youtube.com/channel/UCtM-pDaaGVRe4BJ7w4qE4Bw'
 global.ig = 'https://instagram.com/rival.fly'
-global.mygc = 'https://chat.whatsapp.com/CRY23lVKmXB7sCMhHmcwVw'
-global.myweb = 'https://s.id/chikabot'
-global.email = 'riychdwaynee@gmail.com'
+global.mygc = 'https://chat.whatsapp.com/K2tDzZg6MsELs9tkchOCVI'
+global.myweb = ''
+global.email = 'rrshopgame89@gmail.com'
 global.region = 'indonesia'
 
 //—————「 Set Wm 」—————//
